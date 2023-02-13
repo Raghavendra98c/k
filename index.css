@@ -1,0 +1,14 @@
+ul{
+    background-color: tomato;
+    color: rgb(231, 204, 204);
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    padding: 30px;
+}
+ul li:hover{
+    background-color: black;
+    color: white;
+   
+}
